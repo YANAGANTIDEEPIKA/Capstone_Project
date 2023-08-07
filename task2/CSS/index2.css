@@ -8,7 +8,7 @@
 	width: 1000px;
 	height: 500px;
      	padding: 20px 40px 20px;
-	background-image: url('../task2/images/img1.jpg');
+	background-image: url('../images/img1.jpg');
 	height: 550px;
 	background-repeat: no-repeat;
 	background-clip: content-box;
@@ -273,7 +273,7 @@
 .d26{
 	width: 1000px;
 	height: 500px; 	
-	background-image: url('../task2/images/img1dup.jpg');
+	background-image: url('../images/img1dup.jpg');
 	height: 550px;
 	padding:0px ;
 	background-repeat: no-repeat;
@@ -378,7 +378,7 @@ ul{
 .d35{
 	width: 1000px;
 	height: 500px; 	
-	background-image: url('../task2/images/img1dup2.jpg');
+	background-image: url('../images/img1dup2.jpg');
 	height: 550px;
 	padding:0px ;
 	background-repeat: no-repeat;
